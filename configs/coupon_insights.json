@@ -1,0 +1,52 @@
+{
+  "Bar": {
+    "insights": [
+      "Higher acceptance for frequent bar-goers (>3 visits/month).",
+      "Low acceptance for infrequent visitors and young adults.",
+      "Income and driver status show minor effect on acceptance."
+    ],
+    "recommendation": "Focus marketing on frequent visitors and consider promotions for young or new customers."
+  },
+  "Carry out & Take away": {
+    "insights": [
+      "Consistently high acceptance across all conditions.",
+      "Minor variation based on age and visit frequency.",
+      "Income and driver status slightly influence acceptance."
+    ],
+    "recommendation": "Maintain current coupon strategy and consider loyalty programs."
+  },
+  "Coffee House": {
+    "insights": [
+      "Acceptance rises with more than 3 visits/month.",
+      "Younger or infrequent visitors show lower uptake.",
+      "Driver status does not affect coupon usage significantly."
+    ],
+    "recommendation": "Offer tiered rewards for frequent visitors and target campaigns for new or young customers."
+  },
+  "Restaurant(20-50)": {
+    "insights": [
+      "Acceptance higher for adults over 25 and frequent visitors.",
+      "Low uptake for infrequent visitors and kids.",
+      "Income and driver status moderately influence acceptance."
+    ],
+    "recommendation": "Target regular adult customers and introduce family-friendly promotions."
+  },
+  "Restaurant(<20)": {
+    "insights": [
+      "High acceptance across all conditions.",
+      "Young visitors (<30) slightly higher uptake.",
+      "Frequent visits and low-income groups show strong acceptance."
+    ],
+    "recommendation": "Maintain coupon distribution and ensure reach to low-income frequent diners."
+  },
+  "Overall Coupon Acceptance Rate": {
+    "insights": [
+      "Carry out & Take away has the highest overall acceptance rate.",
+      "Bar and Restaurant(20-50) show the lowest engagement levels.",
+      "Weekend-related coupons perform better than weekday ones.",
+	  "Average coupon acceptance acorss all coupons type",
+	  "Weighted overall acceptance on entire dataset"
+    ],
+    "recommendation": "Focus marketing on mid-range restaurant offers and extend deals to attract low-engagement categories.Improve lower-performing coupons like Bar and Restaurant(20-50), while maintaining high engagement for Carry out & Take away. Introduce cross-category deals to improve acceptance parity"
+  }
+}

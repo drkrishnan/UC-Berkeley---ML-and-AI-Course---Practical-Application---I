@@ -1,0 +1,52 @@
+Coupon|analysis_condition|percentage
+Bar|Overall Coupon Accpetance Rate|41.00 %
+Bar|Coupon_accpetance for Bar Visits Per Month <= 3|37.06 %
+Bar|Coupon_accpetance for Bar Visits Per Month > 3 per month|76.88 %
+Bar|(VisitsPerMonth ≤ 1) & (Age ≤ 25)|33.50 %
+Bar|Visits Per Month > 1 & Age>25|69.52 %
+Bar|Visits <=1 per month or Passenger = kid or Occupation in (Farming,Fishing,Forestry)|29.60 %
+Bar|Visits >1 per month & Passenger != kid & Occupation Not in (Farming,Fishing,Forestry)|71.32 %
+Bar|Visits >1 per month and passengers not a kid and Drivers Not Widowed|71.32 %
+Bar|Visits >1 and Age<30|72.17 %
+Bar|Cheap Restarunts visists > 4 per month and Income < 50K|75.51 %
+Carry out & Take away|Overall Coupon Accpetance Rate|73.55 %
+Carry out & Take away|Coupon_accpetance for Carry out & Take away Visits Per Month <= 3|72.06 %
+Carry out & Take away|Coupon_accpetance for Carry out & Take away Visits Per Month > 3 per month|74.96 %
+Carry out & Take away|(VisitsPerMonth ≤ 1) & (Age ≤ 25)|71.56 %
+Carry out & Take away|Visits Per Month > 1 & Age>25|74.75 %
+Carry out & Take away|Visits <=1 per month or Passenger = kid or Occupation in (Farming,Fishing,Forestry)|69.70 %
+Carry out & Take away|Visits >1 per month & Passenger != kid & Occupation Not in (Farming,Fishing,Forestry)|74.64 %
+Carry out & Take away|Visits >1 per month and passengers not a kid and Drivers Not Widowed|74.48 %
+Carry out & Take away|Visits >1 and Age<30|73.60 %
+Carry out & Take away|Cheap Restarunts visists > 4 per month and Income < 50K|75.06 %
+Coffee House|Overall Coupon Accpetance Rate|49.92 %
+Coffee House|Coupon_accpetance for Coffee House Visits Per Month <= 3|44.94 %
+Coffee House|Coupon_accpetance for Coffee House Visits Per Month > 3 per month|67.50 %
+Coffee House|(VisitsPerMonth ≤ 1) & (Age ≤ 25)|42.76 %
+Coffee House|Visits Per Month > 1 & Age>25|63.84 %
+Coffee House|Visits <=1 per month or Passenger = kid or Occupation in (Farming,Fishing,Forestry)|36.51 %
+Coffee House|Visits >1 per month & Passenger != kid & Occupation Not in (Farming,Fishing,Forestry)|66.08 %
+Coffee House|Visits >1 per month and passengers not a kid and Drivers Not Widowed|66.08 %
+Coffee House|Visits >1 and Age<30|68.93 %
+Coffee House|Cheap Restarunts visists > 4 per month and Income < 50K|65.98 %
+Restaurant(20-50)|Overall Coupon Accpetance Rate|44.10 %
+Restaurant(20-50)|Coupon_accpetance for Restaurant(20-50) Visits Per Month <= 3|42.46 %
+Restaurant(20-50)|Coupon_accpetance for Restaurant(20-50) Visits Per Month > 3 per month|64.23 %
+Restaurant(20-50)|(VisitsPerMonth ≤ 1) & (Age ≤ 25)|39.91 %
+Restaurant(20-50)|Visits Per Month > 1 & Age>25|55.67 %
+Restaurant(20-50)|Visits <=1 per month or Passenger = kid or Occupation in (Farming,Fishing,Forestry)|38.42 %
+Restaurant(20-50)|Visits >1 per month & Passenger != kid & Occupation Not in (Farming,Fishing,Forestry)|57.56 %
+Restaurant(20-50)|Visits >1 per month and passengers not a kid and Drivers Not Widowed|57.56 %
+Restaurant(20-50)|Visits >1 and Age<30|60.00 %
+Restaurant(20-50)|Cheap Restarunts visists > 4 per month and Income < 50K|63.22 %
+Restaurant(<20)|Overall Coupon Accpetance Rate|70.71 %
+Restaurant(<20)|Coupon_accpetance for Restaurant(<20) Visits Per Month <= 3|69.00 %
+Restaurant(<20)|Coupon_accpetance for Restaurant(<20) Visits Per Month > 3 per month|72.89 %
+Restaurant(<20)|(VisitsPerMonth ≤ 1) & (Age ≤ 25)|71.60 %
+Restaurant(<20)|Visits Per Month > 1 & Age>25|70.15 %
+Restaurant(<20)|Visits <=1 per month or Passenger = kid or Occupation in (Farming,Fishing,Forestry)|68.87 %
+Restaurant(<20)|Visits >1 per month & Passenger != kid & Occupation Not in (Farming,Fishing,Forestry)|71.40 %
+Restaurant(<20)|Visits >1 per month and passengers not a kid and Drivers Not Widowed|71.51 %
+Restaurant(<20)|Visits >1 and Age<30|75.00 %
+Restaurant(<20)|Cheap Restarunts visists > 4 per month and Income < 50K|70.97 %
+All coupons|Overall Acceptance Rate on entire dataset|56.84
